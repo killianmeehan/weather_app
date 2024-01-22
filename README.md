@@ -31,13 +31,13 @@ A line chart will display the data graphically. Enjoy.
 
 ## Usage
 
-To use the app, simply navigate [here](https://weathering-heights.streamlit.app) and follow the instructions on the Home page. You can explore raw data, view statistics, and create insightful visualizations to stay informed about Berlin's weather.
+To use the app, simply navigate [here](https://weathering-heights.streamlit.app) and follow the instructions on the Home page. You can explore raw data, view statistics, and see some Berlin weather visualisations.
 
 
 
 ## Contributing
 
-Contributions are most than welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request, I will eventually notice.
 
 ## License
 
